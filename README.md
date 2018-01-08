@@ -14,4 +14,4 @@ Run application
 node index.js
 ```
 
-Check **localhost:500**
+Check **localhost:5000**
